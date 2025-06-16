@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @MahmoudDewidar
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning CCNA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-MahmoudDewidar/MahmoudDewidar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Mahmoud Essam EL-Din
+- 👀 I’m interested in fullstack web Developer
+- 🌱 I’m currently learning  java script
+- 📫 How to reach me in linkedin
